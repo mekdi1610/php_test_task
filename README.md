@@ -12,10 +12,10 @@ This project is a test task. It calculates commissions for transactions based on
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/commission-calculation.git
-   cd commission-calculation
-
-2. Install dependencies using Composer:
+   git clone https://github.com/mekdi1610/php_test_task.git
+   cd php_test_task
+   
+3. Install dependencies using Composer:
    composer install
 
 ## Usage
